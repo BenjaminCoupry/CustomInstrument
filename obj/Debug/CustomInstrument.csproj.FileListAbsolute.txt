@@ -1,0 +1,7 @@
+C:\Users\benja\source\repos\CustomInstrument\CustomInstrument\bin\Debug\CustomInstrument.exe.config
+C:\Users\benja\source\repos\CustomInstrument\CustomInstrument\bin\Debug\CustomInstrument.exe
+C:\Users\benja\source\repos\CustomInstrument\CustomInstrument\bin\Debug\CustomInstrument.pdb
+C:\Users\benja\source\repos\CustomInstrument\CustomInstrument\obj\Debug\CustomInstrument.csprojAssemblyReference.cache
+C:\Users\benja\source\repos\CustomInstrument\CustomInstrument\obj\Debug\CustomInstrument.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\CustomInstrument\CustomInstrument\obj\Debug\CustomInstrument.exe
+C:\Users\benja\source\repos\CustomInstrument\CustomInstrument\obj\Debug\CustomInstrument.pdb
